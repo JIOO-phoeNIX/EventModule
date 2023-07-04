@@ -1,0 +1,6 @@
+
+08:46:35.074 +01:00 [Information] Application started. Press Ctrl+C to shut down.
+
+08:46:35.181 +01:00 [Information] Hosting environment: "Development"
+
+08:46:35.184 +01:00 [Information] Content root path: "C:\Users\USER\source\repos\Innoloft\EventModuleApi\EventModuleApi\EventModuleApi\"
