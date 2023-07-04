@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenrModule.Persistence", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventModuleApi.Core", "EventModuleApi.Core\EventModuleApi.Core.csproj", "{1D0EBB49-D897-4033-9DFD-5AC271E02ACD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventModuleApi.Test", "EventModuleApi.Test\EventModuleApi.Test.csproj", "{4D661C46-9B96-41B2-9FF2-F004C432AFFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventModuleApi.Test", "EventModuleApi.Test\EventModuleApi.Test.csproj", "{4D661C46-9B96-41B2-9FF2-F004C432AFFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
