@@ -13,7 +13,8 @@ In-memory cache,
 Unit test (XUnit),
 Moq,
 Dependency injection,
-Microservices
+Microservices,
+Serilog
 
 
 
