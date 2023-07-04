@@ -283,6 +283,10 @@ public class EventService : IEventService
                 if (isParsable is false)
                     continue;
 
+                //event owner cannot register as participant
+                if (eventInfo.UserId == userId)
+                    continue;
+
                 //check if user already registered for this event
                 if (eventParticipants.Any(x => x.ParticipantUserId == userId))
                     continue;
